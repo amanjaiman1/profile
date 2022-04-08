@@ -163,7 +163,7 @@ p.slide-left {
     /* Gives that scrolling effect as the typing happens */
     letter-spacing: .15em;
     /* Adjust as needed */
-    animation: typing 4s steps(240, end), blink-caret 20.75s step-end infinite;
+    animation: typing 6.50s steps(240, end), blink-caret 20.75s step-end infinite;
 }
 
 .AB h1:hover {
